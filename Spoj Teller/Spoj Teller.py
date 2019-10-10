@@ -144,4 +144,4 @@ exi=Button(frame,text="Exit",fg="black",bg="ivory4",command=fun2);
 exi.grid(row=8,column=2,sticky="E");
 exi.config(font=("Comic sans",20));
 
-screen.mainloop();
+
